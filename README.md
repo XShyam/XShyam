@@ -97,6 +97,8 @@
 
 ***
 
-<p align="center">
-<i class="fa fa-arrow-circle-up fa-3x" aria-hidden="true"></i>
-<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px"> </a>        </p>
+<div align="center">
+
+<a href="#top">  <img src="https://cutt.ly/yn4LGhR" width="65px" height="65px"> </a>        
+  
+</div>
