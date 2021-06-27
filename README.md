@@ -3,7 +3,7 @@
 
 <!--  ![Shyam's card name](https://cardivo.vercel.app/api?name=Shyam&description=Programmer%20by%20day.%20Photographer%20by%20night.&image=https://avatars.githubusercontent.com/u/75221087&github=XShyam&site=xshyam.co&pattern=ticTacToe&backgroundColor=%23ecf0f1%&colorPattern=%23eaeaea)   -->
 
-  <img src="https://raw.githubusercontent.com/XShyam/XShyam/main/bg.png" >
+  <img src="https://raw.githubusercontent.com/XShyam/XShyam/main/B.jpg" >
   
   
 ***
