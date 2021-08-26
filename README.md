@@ -3,7 +3,7 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/XShyam/XShyam/main/B.jpg" >
+  <img src="https://raw.githubusercontent.com/XShyam/XShyam/main/bg.jpg" >
   
   
 ***
