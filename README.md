@@ -56,7 +56,7 @@
 
 <br>
 
-<p align="left">         <a href="https://twitter.com/X__Shyam"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="75px" height="75px" ></a>
+<p align="left">         <a href="https://twitter.com/X__Shyam"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="75px" height="50px" ></a>
  &nbsp;&nbsp;            <a href="https://github.com/XShyam"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75px" height="75px"></a>
  &nbsp;&nbsp;            <a href="https://xshyam.co"><img src="https://cutt.ly/ln3acJ1" width="75px" height="75px" ></a>           </p>
 
