@@ -42,9 +42,12 @@
 - ✅ &nbsp; Would love to collaborate on any open source project! 
   
 
-- 🔍 &nbsp; Want to get in touch with me? Just click <a href="https://xshyam.github.io/index.html#contact"> here </a>
-
-
+- 🔍 &nbsp; Want to get in touch with me? Just click <a href="https://xshyam.github.io/index.html#contact"> here </a> 
+  
+  
+- 📧 &nbsp; Feel free to <a href="mailto:hi@xshyam.ml"> email</a>  me  
+  
+  
 - ⚡ &nbsp; Fun fact: &nbsp; I &nbsp; ❤️  &nbsp;  🐶  &nbsp;  !
   
   
