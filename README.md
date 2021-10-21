@@ -45,7 +45,7 @@
 - 🔍 &nbsp; Want to get in touch with me? Just click <a href="https://xshyam.github.io/index.html#contact"> here </a> 
   
   
-- 📧 &nbsp; Feel free to <a href="mailto:hi@xshyam.ml"> email</a>  me  
+- 📧 &nbsp; Feel free to <a href="mailto:hi@shyam.eu.org"> email</a>  me  
   
   
 - ⚡ &nbsp; Fun fact: &nbsp; I &nbsp; ❤️  &nbsp;  🐶  &nbsp;  !
@@ -62,7 +62,7 @@
 <p align="left"> 
                          <a href="https://github.com/XShyam"> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75px" height="75px"> </a>
  &nbsp;&nbsp;            <a href="https://xshyam.github.io"> <img src="https://cutt.ly/ln3acJ1" width="85px" height="85px" > </a>           
- &nbsp;&nbsp;            <a href="mailto: hi@xshyam.ml"> <img src="https://cutt.ly/UErgfEI" width="85px" height="85px" > </a>     </p>
+ &nbsp;&nbsp;            <a href="mailto:hi@shyam.eu.org"> <img src="https://cutt.ly/UErgfEI" width="85px" height="85px" > </a>     </p>
 
   
 
