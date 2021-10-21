@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<h1> Hi, I'm <a href="https://xshyam.co"> Shyam </a> !</h1>
+<h1> Hi, I'm <a href="https://xshyam.github.io"> Shyam </a> !</h1>
 
   Am a tech enthusiast who loves to learn more about cybersecurity. 💻  &nbsp; Ever since I fell in love with coding in High school, I haven't stopped since and I have enjoyed the ride ever since. 💫  &nbsp; I would love to collaborate with anyone on anything related to computers.
   
