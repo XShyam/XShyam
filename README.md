@@ -2,8 +2,6 @@
 <div align="center">
 
 
-
-  <img src="https://raw.githubusercontent.com/XShyam/XShyam/main/bg.jpg" >
   
   
 ***
