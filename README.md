@@ -73,7 +73,6 @@
 
 <br>
 
-[![Shyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=XShyam&theme=react-dark&hide_border=true&area=true)](https://github.com/XShyam)
 
 
 <br><br>
@@ -90,6 +89,13 @@
 <br><br>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=random_views) 
+ 
+  <br><br>
+  
+[![Shyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=XShyam&theme=react-dark&hide_border=true&area=true)](https://github.com/XShyam)
+  
+
+
 </details>
 
 <br>
